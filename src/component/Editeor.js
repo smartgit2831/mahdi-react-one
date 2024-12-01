@@ -22,7 +22,6 @@ export default function Editeor({edit}) {
             })
         }
     }
-    //dssdsdsdsdsdsdssdsdsdsdds
   return (
     <div>
         <form onSubmit={editing}>
