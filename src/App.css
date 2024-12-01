@@ -1,0 +1,8 @@
+.App{
+    margin: 25px;
+    list-style: none;
+    direction: rtl;
+}
+.icon_del_edit{
+    cursor: pointer;
+}

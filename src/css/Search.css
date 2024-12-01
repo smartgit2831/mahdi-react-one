@@ -1,0 +1,10 @@
+.navbar-nav{
+    color: white;
+}
+.nav-item input{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 6px;
+    padding: 6px;
+    box-shadow: 1px 2px 1px 1px white;
+}
